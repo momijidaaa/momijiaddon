@@ -1,0 +1,14 @@
+{
+  "format_version": "1.20.30",
+  "minecraft:item": {
+    "description": {
+      "identifier": "moz:test",
+      "category": "Misc"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "test"
+      }
+    }
+  }
+}
