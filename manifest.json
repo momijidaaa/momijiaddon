@@ -3,7 +3,7 @@
   "header": {
     "name": "もみじアドオン",
     "description": "なんかついかします",
-    "uuid": "2736e97c-8e98-4c23-84a8-dbef7ed348ca",
+    "uuid": "2739197c-8e98-4c23-84a8-dbef7ed348ca",
     "version": [1, 0, 0],
     "min_engine_version": [1, 20, 0]
   },
@@ -11,13 +11,13 @@
     {
       "description": "Resources",
       "type": "resources",
-      "uuid": "a68e5b24-7ca6-4375-be09-40ce751e0788",
+      "uuid": "a6545b24-7ca6-4375-be09-40ce751e0788",
       "version": [1, 0, 0]
     },
     {
       "description": "Behaviors",
       "type": "data",
-      "uuid": "de3c1d0c-94e0-4b75-8aab-599b572029cf",
+      "uuid": "de3c000c-94e0-4b75-8aab-599b572029cf",
       "version": [1, 0, 0]
     }
   ]
